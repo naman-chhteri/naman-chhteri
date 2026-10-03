@@ -1,5 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Naman Chhetri 👋</h1>
+<h3 align="center">Aspiring Data Analyst | Turning data into insights 📊</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/naman-chhetri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:[your-email@example.com]">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Aspiring data analyst passionate about finding stories in data
+- 🔭 Currently learning: **[e.g. advanced SQL, Power BI, statistics]**
+- 🌱 Building projects in data cleaning, EDA, and dashboarding
+- 💬 Ask me about: **Excel, SQL, Python, data visualization**
+- 🎯 Looking for: **data analyst internships / entry-level roles**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Querying**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
+
+**Visualization & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+> Remove any badges for tools you haven't used yet. Keep it honest and it'll look stronger.
+
+---
+
+## 📁 Featured Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Project Name 1](link) | Short one-line summary of the problem and insight | Python, Pandas |
+| [Project Name 2](link) | Short one-line summary of the problem and insight | SQL |
+| [Project Name 3](link) | Short one-line summary of the problem and insight | Power BI |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm open to opportunities, collaborations, and feedback on my projects.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/naman-chhetri/)
+
+<p align="center"><i>⭐ Thanks for stopping by!</i></p>
 <!--
 **naman-chhteri/naman-chhteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
