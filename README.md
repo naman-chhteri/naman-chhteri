@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naman-chhetri/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[namanchettri05@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:namanchettri05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Aspiring data analyst passionate about finding stories in data
-- 🔭 Currently learning: **[e.g. advanced SQL, Power BI, statistics]**
+- 🔭 Currently learning: **advanced Excel, SQL, Power BI, Python**
 - 🌱 Building projects in data cleaning, EDA, and dashboarding
 - 💬 Ask me about: **Excel, SQL, Python, data visualization**
 - 🎯 Looking for: **data analyst internships / entry-level roles**
@@ -43,11 +43,10 @@
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-> Remove any badges for tools you haven't used yet. Keep it honest and it'll look stronger.
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
